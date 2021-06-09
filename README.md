@@ -9,3 +9,4 @@ From Cloud Computing path, We makes corporate data more secure. Because of its l
 The services we used on Google Cloud Platform seemed like Jupyter Notebook in AI Platform to run the machine learning, Cloud SQL and Cloud Storage to manage the database of app, and App Engine to deploy the Android Code. 
 
 Android : 
+From Android path, we taking users location data, connect to the database system, and giving Alert to user’s phone.
