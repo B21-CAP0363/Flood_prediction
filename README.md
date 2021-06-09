@@ -10,3 +10,4 @@ The services we used on Google Cloud Platform seemed like Jupyter Notebook in AI
 
 Android : 
 From Android path, we taking users location data, connect to the database system, and giving Alert to user’s phone.
+For now there is no android code file because our android members are having problems.
