@@ -6,6 +6,6 @@ The machine learning learning path makes the ML model. We use the Classification
 Cloud Computing : 
 From Cloud Computing path, We makes corporate data more secure. Because of its layered infrastructure and intelligent monitoring system that google cloud platform has. And then we run machine learning models more efficiently using some of the google cloud platform service has. For the last we connect the models with android App so that the application can run properly and detect the flood.
 
-The services we used on Google Cloud Platform seemed like Jupyter Notebook in AI Platform to run the machine learning, Cloud Function and Cloud Storage to manage the database of app, and App Engine to deploy the Android Code. 
+The services we used on Google Cloud Platform seemed like Jupyter Notebook in AI Platform to run the machine learning, Cloud SQL and Cloud Storage to manage the database of app, and App Engine to deploy the Android Code. 
 
 Android : 
